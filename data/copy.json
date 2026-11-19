@@ -1,0 +1,85 @@
+{
+  "_status": "DRAFT. Every line below is a draft. Keys starting with _ are ignored by server/copy.ts. Voice is warm, no roast, no guilt.",
+  "first_open": [
+    "hi, i'm chungi. every time you cook instead of ordering, i get something new for my kitchen"
+  ],
+  "name_prompt": [
+    "i've been going by chungi. want to call me something else?",
+    "chungi is my default name. you can change it if you want"
+  ],
+  "_name_default": "Chungi",
+  "_name_suggestions": [
+    "LilChungi",
+    "HungryChungi",
+    "MightyChungus"
+  ],
+  "checkin_question": [
+    "are you cooking tonight or ordering?",
+    "what's the plan for dinner, cooking or ordering?"
+  ],
+  "checkin_cooking": [
+    "let's go, hit start cooking when you get going and i'll cook with you",
+    "ok chef, tell me when you start and i'll grab my tiny apron"
+  ],
+  "checkin_ordering": [
+    "ok, enjoy it. i'll be here next time you cook",
+    "no worries, see you at the next one"
+  ],
+  "timer_start": [
+    "timer's on, i'm cooking right next to you",
+    "ok we're cooking, i'll keep track of the time"
+  ],
+  "timer_running": [
+    "smells good from here",
+    "how's it going over there? i'm stirring my pretend pot",
+    "you're doing great, i'm just watching the pan with you"
+  ],
+  "photo_waiting": [
+    "hold on, i'm looking at this up close",
+    "ok let me get a good look at that plate",
+    "give me a sec, i'm figuring out what's in there"
+  ],
+  "fallback_cannot_name": [
+    "i can't tell what this is but it looks good. what did you make?",
+    "wow, this is a unique dish. what's it called?"
+  ],
+  "cap_reached": [
+    "i've looked at a lot of plates today so i'm using my usual guess for this one. it still counts",
+    "my eyes need a break for today, so this one gets a rough estimate. it still goes in the wallet"
+  ],
+  "growth_stage_up_1": [
+    "i grew! turns out your cooking is good for me"
+  ],
+  "growth_stage_up_2": [
+    "i'm getting bigger, i think it's all the home food"
+  ],
+  "growth_stage_up_3": [
+    "i grew again, all from your cooking"
+  ],
+  "growth_stage_up_4": [
+    "i'm halfway grown now, and all of it came from stuff you made yourself"
+  ],
+  "growth_stage_up_5": [
+    "i'm almost full size, and every meal you made got me here"
+  ],
+  "growth_stage_up_6": [
+    "i'm fully grown now, and every bit of me came out of your kitchen"
+  ],
+  "cosmetic_bought": [
+    "thank you!! i'm wearing this everywhere",
+    "i love it, you earned this one with your own cooking"
+  ],
+  "share_prompt": [
+    "you should share that on your story cus that looks FIRE",
+    "post this, people need to see what you made"
+  ],
+  "recovery_key_offer": [
+    "if you clear your browser or switch phones i lose track of you. want to add a phone number or email so we can find each other again?"
+  ],
+  "comparison_question": [
+    "what would tonight have cost if you'd ordered?",
+    "real talk, how much would takeout have been tonight?"
+  ],
+  "_checkin_note": "Check-in is not on any screen. These lines are kept for the notification version later.",
+  "_growth_note": "Progression is being redesigned to kitchen decoration, pet decoration and a recipe book. These stage lines are placeholders until that design exists."
+}

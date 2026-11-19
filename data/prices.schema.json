@@ -1,0 +1,15 @@
+{
+  "$comment": "data/prices.json is an array of these. Owned by the price-table agent.",
+  "type": "object",
+  "required": ["id", "name", "aliases", "unit", "price_per_unit_cad", "source", "checked_on"],
+  "properties": {
+    "id": { "type": "string", "description": "snake_case, stable, e.g. canned_tuna" },
+    "name": { "type": "string" },
+    "aliases": { "type": "array", "items": { "type": "string" }, "description": "other names the model may use" },
+    "unit": { "type": "string", "enum": ["g", "ml", "each", "slice", "cup", "tbsp"], "description": "base unit the price is per" },
+    "price_per_unit_cad": { "type": "number", "description": "CAD per ONE unit, e.g. per gram" },
+    "typical_pack": { "type": "string", "description": "human note, e.g. 170 g can $1.99" },
+    "source": { "type": "string", "description": "store or flyer, e.g. Zehrs Waterloo flyer 2026-10" },
+    "checked_on": { "type": "string", "format": "date" }
+  }
+}

@@ -1,0 +1,14 @@
+[
+  { "id": "hat_chef", "slot": "hat", "name": "Tiny chef hat", "price": 4, "art": "hat/chef" },
+  { "id": "hat_beanie", "slot": "hat", "name": "Knit beanie", "price": 8, "art": "hat/beanie" },
+  { "id": "hat_bucket", "slot": "hat", "name": "Bucket hat", "price": 15, "art": "hat/bucket" },
+  { "id": "hat_crown", "slot": "hat", "name": "Gold crown", "price": 40, "art": "hat/crown" },
+  { "id": "acc_apron", "slot": "accessory", "name": "Striped apron", "price": 3, "art": "accessory/apron" },
+  { "id": "acc_spatula", "slot": "accessory", "name": "Wooden spatula", "price": 6, "art": "accessory/spatula" },
+  { "id": "acc_sunglasses", "slot": "accessory", "name": "Sunglasses", "price": 12, "art": "accessory/sunglasses" },
+  { "id": "acc_chain", "slot": "accessory", "name": "Garlic chain", "price": 25, "art": "accessory/garlic_chain" },
+  { "id": "bg_kitchen", "slot": "background", "name": "Cozy kitchen", "price": 5, "art": "background/kitchen" },
+  { "id": "bg_market", "slot": "background", "name": "Farmers market", "price": 10, "art": "background/market" },
+  { "id": "bg_rooftop", "slot": "background", "name": "Rooftop at night", "price": 20, "art": "background/rooftop" },
+  { "id": "bg_diner", "slot": "background", "name": "Retro diner", "price": 30, "art": "background/diner" }
+]

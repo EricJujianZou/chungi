@@ -1,0 +1,3004 @@
+[
+  {
+    "id": "chicken_thigh",
+    "name": "Chicken thighs, boneless skinless",
+    "aliases": [
+      "chicken thigh",
+      "chicken thighs",
+      "boneless chicken thigh",
+      "dark meat chicken",
+      "chicken leg meat",
+      "chicken"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01301,
+    "typical_pack": "per kg $13.01",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "chicken_breast",
+    "name": "Chicken breast, boneless skinless",
+    "aliases": [
+      "chicken breast",
+      "chicken breasts",
+      "white meat chicken",
+      "grilled chicken",
+      "chicken cutlet"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01394,
+    "typical_pack": "per kg $13.94",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "chicken_drumstick",
+    "name": "Chicken drumsticks",
+    "aliases": [
+      "drumstick",
+      "drumsticks",
+      "chicken legs",
+      "chicken leg"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00663,
+    "typical_pack": "per kg $6.63",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "chicken_wings",
+    "name": "Chicken wings",
+    "aliases": [
+      "wings",
+      "chicken wing",
+      "hot wings"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01761,
+    "typical_pack": "per lb $7.99",
+    "source": "Food Basics Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "whole_chicken",
+    "name": "Whole chicken",
+    "aliases": [
+      "roast chicken",
+      "whole roaster",
+      "rotisserie chicken"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00686,
+    "typical_pack": "per kg $6.86",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "ground_chicken",
+    "name": "Ground chicken",
+    "aliases": [
+      "minced chicken",
+      "chicken mince"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.011,
+    "typical_pack": "1 kg about $11.00",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "ground_beef",
+    "name": "Ground beef",
+    "aliases": [
+      "minced beef",
+      "beef mince",
+      "hamburger meat",
+      "lean ground beef",
+      "burger patty",
+      "beef patty"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01609,
+    "typical_pack": "per kg $16.09",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "ground_pork",
+    "name": "Ground pork",
+    "aliases": [
+      "minced pork",
+      "pork mince"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0099,
+    "typical_pack": "1 kg about $9.90",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "ground_turkey",
+    "name": "Ground turkey",
+    "aliases": [
+      "minced turkey",
+      "turkey mince"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0125,
+    "typical_pack": "1 kg about $12.50",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "stewing_beef",
+    "name": "Stewing beef",
+    "aliases": [
+      "beef stew meat",
+      "beef cubes",
+      "stew beef",
+      "beef chunks"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02631,
+    "typical_pack": "per kg $26.31",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "beef_steak",
+    "name": "Beef steak, sirloin",
+    "aliases": [
+      "steak",
+      "sirloin",
+      "sirloin steak",
+      "beef sirloin",
+      "sliced beef",
+      "beef strips",
+      "flank steak"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02805,
+    "typical_pack": "per kg $28.05",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "pork_chop",
+    "name": "Pork loin chops",
+    "aliases": [
+      "pork chop",
+      "pork chops",
+      "pork loin",
+      "pork tenderloin"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00883,
+    "typical_pack": "per kg $8.83",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "pork_shoulder",
+    "name": "Pork shoulder",
+    "aliases": [
+      "pork butt",
+      "pulled pork",
+      "pork shoulder roast",
+      "char siu"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0096,
+    "typical_pack": "per kg $9.60",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "pork_belly",
+    "name": "Pork belly",
+    "aliases": [
+      "samgyeopsal",
+      "sliced pork belly",
+      "pork belly slices"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0132,
+    "typical_pack": "1 kg about $13.20",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "bacon",
+    "name": "Bacon",
+    "aliases": [
+      "bacon strips",
+      "streaky bacon",
+      "bacon bits"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01266,
+    "typical_pack": "500 g pack $6.33",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "italian_sausage",
+    "name": "Italian sausage",
+    "aliases": [
+      "sausage",
+      "sausages",
+      "pork sausage",
+      "mild italian sausage",
+      "hot italian sausage"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0222,
+    "typical_pack": "450 g pack $9.99",
+    "source": "No Frills Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "breakfast_sausage",
+    "name": "Breakfast sausage links",
+    "aliases": [
+      "breakfast sausage",
+      "sausage links",
+      "breakfast links"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01331,
+    "typical_pack": "375 g pack about $4.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "smoked_sausage",
+    "name": "Smoked sausage, kielbasa",
+    "aliases": [
+      "kielbasa",
+      "smoked sausage",
+      "polish sausage",
+      "farmer sausage",
+      "chorizo"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01598,
+    "typical_pack": "500 g ring $7.99",
+    "source": "Food Basics Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "hot_dog",
+    "name": "Hot dog wieners",
+    "aliases": [
+      "hot dog",
+      "wiener",
+      "wieners",
+      "frankfurter",
+      "sausage in bun"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.479,
+    "typical_pack": "400 g pack of 10 $4.79",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "deli_ham",
+    "name": "Sliced ham",
+    "aliases": [
+      "ham",
+      "deli ham",
+      "black forest ham",
+      "sliced deli meat",
+      "cold cuts"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02566,
+    "typical_pack": "175 g pack about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "pepperoni",
+    "name": "Sliced pepperoni",
+    "aliases": [
+      "pepperoni",
+      "salami"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.03592,
+    "typical_pack": "125 g pack about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "spam",
+    "name": "Luncheon meat",
+    "aliases": [
+      "spam",
+      "luncheon meat",
+      "canned ham"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01615,
+    "typical_pack": "340 g can about $5.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "eggs",
+    "name": "Eggs, large",
+    "aliases": [
+      "egg",
+      "eggs",
+      "fried egg",
+      "boiled egg",
+      "scrambled eggs",
+      "omelette",
+      "egg yolk"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.4167,
+    "typical_pack": "dozen $5.00",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "canned_tuna",
+    "name": "Canned tuna",
+    "aliases": [
+      "tuna",
+      "tuna can",
+      "flaked tuna",
+      "chunk light tuna"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01047,
+    "typical_pack": "170 g can $1.78",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "canned_salmon",
+    "name": "Canned salmon",
+    "aliases": [
+      "salmon can",
+      "pink salmon canned"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02582,
+    "typical_pack": "213 g can $5.50",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu, firm",
+    "aliases": [
+      "tofu",
+      "firm tofu",
+      "bean curd",
+      "silken tofu",
+      "soft tofu",
+      "fried tofu"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.008343,
+    "typical_pack": "350 g block $2.92",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon fillet, fresh",
+    "aliases": [
+      "salmon",
+      "salmon fillet",
+      "atlantic salmon",
+      "smoked salmon"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02881,
+    "typical_pack": "per kg $28.81",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "shrimp",
+    "name": "Shrimp, frozen raw",
+    "aliases": [
+      "shrimp",
+      "prawns",
+      "prawn",
+      "frozen shrimp",
+      "cooked shrimp"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0242,
+    "typical_pack": "300 g bag $7.26",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "white_fish",
+    "name": "White fish fillet, frozen",
+    "aliases": [
+      "basa",
+      "tilapia",
+      "cod",
+      "pollock",
+      "fish fillet",
+      "white fish"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01299,
+    "typical_pack": "1 kg frozen bag about $12.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "chicken_nuggets",
+    "name": "Frozen chicken nuggets",
+    "aliases": [
+      "chicken nuggets",
+      "nuggets",
+      "chicken strips",
+      "chicken tenders",
+      "popcorn chicken",
+      "breaded chicken"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01332,
+    "typical_pack": "750 g box about $9.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "canned_chickpeas",
+    "name": "Canned chickpeas",
+    "aliases": [
+      "chickpeas",
+      "garbanzo beans",
+      "chick peas"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.003204,
+    "typical_pack": "540 ml can $1.73",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "canned_black_beans",
+    "name": "Canned black beans",
+    "aliases": [
+      "black beans",
+      "black bean"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.003204,
+    "typical_pack": "540 ml can $1.73",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "canned_kidney_beans",
+    "name": "Canned kidney beans",
+    "aliases": [
+      "kidney beans",
+      "red kidney beans",
+      "pinto beans",
+      "mixed beans",
+      "white beans",
+      "cannellini beans"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.003204,
+    "typical_pack": "540 ml can $1.73",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "baked_beans",
+    "name": "Canned baked beans",
+    "aliases": [
+      "baked beans",
+      "beans in tomato sauce",
+      "pork and beans"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00407,
+    "typical_pack": "398 ml can $1.62",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "lentils",
+    "name": "Dried lentils",
+    "aliases": [
+      "lentils",
+      "red lentils",
+      "green lentils",
+      "dal",
+      "dhal",
+      "masoor dal"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.004011,
+    "typical_pack": "900 g bag $3.61",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "dried_beans",
+    "name": "Dried beans",
+    "aliases": [
+      "dry beans",
+      "dried chickpeas",
+      "split peas",
+      "dried kidney beans",
+      "mung beans"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.004056,
+    "typical_pack": "900 g bag $3.65",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "edamame",
+    "name": "Frozen edamame",
+    "aliases": [
+      "edamame",
+      "soybeans",
+      "soy beans"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00798,
+    "typical_pack": "500 g bag about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "paneer",
+    "name": "Paneer",
+    "aliases": [
+      "paneer",
+      "indian cottage cheese"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01854,
+    "typical_pack": "350 g block about $6.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "white_rice",
+    "name": "White rice, long grain",
+    "aliases": [
+      "rice",
+      "white rice",
+      "long grain rice",
+      "steamed rice",
+      "cooked rice",
+      "fried rice",
+      "parboiled rice"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.004645,
+    "typical_pack": "2 kg bag $9.29",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "jasmine_rice",
+    "name": "Jasmine rice",
+    "aliases": [
+      "jasmine rice",
+      "thai rice",
+      "fragrant rice"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00186,
+    "typical_pack": "8 kg bag $14.88",
+    "source": "Food Basics Ontario flyer 2026-09-03 to 2026-09-09, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "basmati_rice",
+    "name": "Basmati rice",
+    "aliases": [
+      "basmati",
+      "basmati rice",
+      "biryani rice"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.003081,
+    "typical_pack": "4.54 kg bag about $13.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "brown_rice",
+    "name": "Brown rice",
+    "aliases": [
+      "brown rice",
+      "whole grain rice"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.006444,
+    "typical_pack": "900 g bag $5.80",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "short_grain_rice",
+    "name": "Short grain rice",
+    "aliases": [
+      "sushi rice",
+      "calrose rice",
+      "sticky rice",
+      "korean rice",
+      "japanese rice",
+      "short grain rice"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.003522,
+    "typical_pack": "4.54 kg bag about $15.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "pasta",
+    "name": "Dry pasta, short shapes",
+    "aliases": [
+      "pasta",
+      "penne",
+      "fusilli",
+      "rotini",
+      "macaroni",
+      "farfalle",
+      "bowtie pasta",
+      "rigatoni",
+      "shells",
+      "lasagna noodles",
+      "elbow macaroni"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00664,
+    "typical_pack": "500 g box $3.32",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "spaghetti",
+    "name": "Spaghetti",
+    "aliases": [
+      "spaghetti",
+      "linguine",
+      "fettuccine",
+      "angel hair",
+      "noodles"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00664,
+    "typical_pack": "500 g box $3.32",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "egg_noodles",
+    "name": "Egg noodles",
+    "aliases": [
+      "egg noodles",
+      "chow mein noodles",
+      "lo mein noodles",
+      "wonton noodles"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.007973,
+    "typical_pack": "375 g bag about $2.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "instant_noodles",
+    "name": "Instant noodles",
+    "aliases": [
+      "instant noodles",
+      "mr noodles",
+      "mr. noodles",
+      "ramen pack",
+      "instant ramen",
+      "cup noodles",
+      "maruchan",
+      "top ramen",
+      "nissin"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.48,
+    "typical_pack": "85 g pack $0.48",
+    "source": "Walmart.ca online price, 2026-10",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "korean_ramen",
+    "name": "Korean instant ramen",
+    "aliases": [
+      "shin ramyun",
+      "shin ramen",
+      "korean ramen",
+      "ramyun",
+      "jin ramen",
+      "neoguri"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 1.623,
+    "typical_pack": "4 pack about $6.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "buldak_ramen",
+    "name": "Buldak spicy ramen",
+    "aliases": [
+      "buldak",
+      "fire noodles",
+      "samyang",
+      "spicy chicken ramen"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 2.596,
+    "typical_pack": "5 pack $12.98",
+    "source": "Food Basics Ontario flyer 2026-09-03 to 2026-09-09, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "udon",
+    "name": "Udon noodles, frozen",
+    "aliases": [
+      "udon",
+      "udon noodles",
+      "sanuki udon"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00499,
+    "typical_pack": "5 x 200 g frozen pack about $4.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "rice_noodles",
+    "name": "Rice noodles",
+    "aliases": [
+      "rice noodles",
+      "rice vermicelli",
+      "vermicelli",
+      "pad thai noodles",
+      "rice sticks",
+      "pho noodles",
+      "glass noodles",
+      "japchae noodles"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.006225,
+    "typical_pack": "400 g pack about $2.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "soba",
+    "name": "Soba noodles",
+    "aliases": [
+      "soba",
+      "buckwheat noodles"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01026,
+    "typical_pack": "340 g pack about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "rice_cakes",
+    "name": "Korean rice cakes",
+    "aliases": [
+      "tteok",
+      "tteokbokki",
+      "rice cakes",
+      "topokki",
+      "ddeokbokki"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00898,
+    "typical_pack": "500 g pack about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "white_bread",
+    "name": "White bread",
+    "aliases": [
+      "bread",
+      "white bread",
+      "toast",
+      "sandwich bread",
+      "sliced bread"
+    ],
+    "unit": "slice",
+    "price_per_unit_cad": 0.1635,
+    "typical_pack": "675 g loaf, about 20 slices, $3.27",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "whole_wheat_bread",
+    "name": "Whole wheat bread",
+    "aliases": [
+      "whole wheat bread",
+      "brown bread",
+      "multigrain bread",
+      "whole grain bread",
+      "wheat toast"
+    ],
+    "unit": "slice",
+    "price_per_unit_cad": 0.1745,
+    "typical_pack": "675 g loaf, about 20 slices, about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "flour_tortilla",
+    "name": "Flour tortillas, large",
+    "aliases": [
+      "tortilla",
+      "tortillas",
+      "wrap",
+      "wraps",
+      "burrito wrap",
+      "flour tortilla"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.449,
+    "typical_pack": "10 pack about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "taco_shells",
+    "name": "Hard taco shells",
+    "aliases": [
+      "taco shell",
+      "taco shells",
+      "corn tortilla",
+      "corn tortillas"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.2908,
+    "typical_pack": "12 pack about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "naan",
+    "name": "Naan bread",
+    "aliases": [
+      "naan",
+      "nan",
+      "garlic naan",
+      "flatbread"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.9925,
+    "typical_pack": "4 pack about $3.97",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "pita",
+    "name": "Pita bread",
+    "aliases": [
+      "pita",
+      "pita bread",
+      "pita pocket"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.5433,
+    "typical_pack": "500 g pack of 6 $3.26",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "bagel",
+    "name": "Bagels",
+    "aliases": [
+      "bagel",
+      "bagels"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.665,
+    "typical_pack": "6 pack about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "english_muffin",
+    "name": "English muffins",
+    "aliases": [
+      "english muffin",
+      "english muffins"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.5817,
+    "typical_pack": "6 pack about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "burger_bun",
+    "name": "Hamburger or hot dog buns",
+    "aliases": [
+      "bun",
+      "buns",
+      "hamburger bun",
+      "burger bun",
+      "hot dog bun",
+      "brioche bun",
+      "slider bun"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.4363,
+    "typical_pack": "8 pack about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "potato",
+    "name": "Potatoes",
+    "aliases": [
+      "potato",
+      "potatoes",
+      "russet potato",
+      "yellow potato",
+      "mashed potatoes",
+      "baked potato",
+      "roast potatoes",
+      "hash browns"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.2067,
+    "typical_pack": "4.54 kg (10 lb) bag, about 21 medium, $4.34",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "sweet_potato",
+    "name": "Sweet potatoes",
+    "aliases": [
+      "sweet potato",
+      "sweet potatoes",
+      "yam",
+      "yams"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00458,
+    "typical_pack": "per kg $4.58",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "oats",
+    "name": "Rolled oats",
+    "aliases": [
+      "oats",
+      "oatmeal",
+      "rolled oats",
+      "quick oats",
+      "porridge",
+      "overnight oats",
+      "instant oatmeal"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00299,
+    "typical_pack": "1 kg bag $2.99",
+    "source": "No Frills Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "flour",
+    "name": "All purpose flour",
+    "aliases": [
+      "flour",
+      "all purpose flour",
+      "white flour",
+      "wheat flour"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.002132,
+    "typical_pack": "2.5 kg bag $5.33",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cereal",
+    "name": "Breakfast cereal",
+    "aliases": [
+      "cereal",
+      "cheerios",
+      "corn flakes",
+      "frosted flakes",
+      "granola",
+      "bran flakes"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01035,
+    "typical_pack": "400 g box $4.14",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "crackers",
+    "name": "Crackers",
+    "aliases": [
+      "crackers",
+      "ritz",
+      "saltines",
+      "triscuit"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0124,
+    "typical_pack": "200 g box $2.48",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "tortilla_chips",
+    "name": "Tortilla chips",
+    "aliases": [
+      "tortilla chips",
+      "nachos",
+      "nacho chips",
+      "corn chips",
+      "doritos"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0133,
+    "typical_pack": "300 g bag about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "pizza_dough",
+    "name": "Pizza dough",
+    "aliases": [
+      "pizza dough",
+      "dough",
+      "fresh dough",
+      "pizza crust"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00698,
+    "typical_pack": "500 g ball about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_pizza",
+    "name": "Frozen pizza",
+    "aliases": [
+      "frozen pizza",
+      "pizza"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 4.61,
+    "typical_pack": "390 g pizza $4.61",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_fries",
+    "name": "Frozen french fries",
+    "aliases": [
+      "fries",
+      "french fries",
+      "frozen fries",
+      "chips",
+      "wedges",
+      "potato wedges"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00464,
+    "typical_pack": "750 g bag $3.48",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_dumplings",
+    "name": "Frozen dumplings",
+    "aliases": [
+      "dumplings",
+      "dumpling",
+      "gyoza",
+      "potstickers",
+      "wontons",
+      "mandu",
+      "jiaozi",
+      "bao",
+      "bun dumplings"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.1998,
+    "typical_pack": "908 g bag, about 45 pieces, about $8.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_spring_rolls",
+    "name": "Frozen spring rolls",
+    "aliases": [
+      "spring rolls",
+      "egg rolls",
+      "spring roll"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.2495,
+    "typical_pack": "20 pack about $4.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_pierogies",
+    "name": "Frozen perogies",
+    "aliases": [
+      "perogies",
+      "pierogi",
+      "pierogies",
+      "perogy"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.1663,
+    "typical_pack": "907 g bag, about 30 pieces, about $4.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "mac_and_cheese",
+    "name": "Boxed macaroni and cheese",
+    "aliases": [
+      "kraft dinner",
+      "kd",
+      "mac and cheese",
+      "macaroni and cheese",
+      "mac n cheese"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 1.0,
+    "typical_pack": "225 g box $1.00",
+    "source": "No Frills Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "quinoa",
+    "name": "Quinoa",
+    "aliases": [
+      "quinoa"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.008878,
+    "typical_pack": "900 g bag about $7.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "couscous",
+    "name": "Couscous",
+    "aliases": [
+      "couscous"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00698,
+    "typical_pack": "500 g box about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "bread_crumbs",
+    "name": "Bread crumbs",
+    "aliases": [
+      "breadcrumbs",
+      "bread crumbs",
+      "panko",
+      "panko crumbs"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01495,
+    "typical_pack": "200 g box about $2.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "milk",
+    "name": "Milk, 2%",
+    "aliases": [
+      "milk",
+      "2% milk",
+      "whole milk",
+      "skim milk",
+      "homo milk",
+      "1% milk"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.001718,
+    "typical_pack": "4 L bag $6.87",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "aliases": [
+      "butter",
+      "salted butter",
+      "unsalted butter"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01267,
+    "typical_pack": "454 g block $5.75",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "margarine",
+    "name": "Margarine",
+    "aliases": [
+      "margarine",
+      "becel",
+      "vegetable spread"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.006097,
+    "typical_pack": "907 g tub $5.53",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cheddar",
+    "name": "Cheddar cheese",
+    "aliases": [
+      "cheddar",
+      "cheese",
+      "cheddar cheese",
+      "shredded cheese",
+      "marble cheese",
+      "block cheese",
+      "grated cheese"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01396,
+    "typical_pack": "500 g block $6.98",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "mozzarella",
+    "name": "Mozzarella cheese",
+    "aliases": [
+      "mozzarella",
+      "mozza",
+      "part skim mozzarella",
+      "pizza cheese",
+      "shredded mozzarella"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01542,
+    "typical_pack": "907 g block $13.99",
+    "source": "Food Basics Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "parmesan",
+    "name": "Parmesan cheese, grated",
+    "aliases": [
+      "parmesan",
+      "parmigiano",
+      "grated parmesan",
+      "parm"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.03196,
+    "typical_pack": "250 g tub about $7.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "feta",
+    "name": "Feta cheese",
+    "aliases": [
+      "feta",
+      "feta cheese"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02745,
+    "typical_pack": "200 g pack about $5.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cheese_slices",
+    "name": "Processed cheese slices",
+    "aliases": [
+      "cheese slice",
+      "cheese slices",
+      "kraft singles",
+      "american cheese",
+      "singles"
+    ],
+    "unit": "slice",
+    "price_per_unit_cad": 0.2273,
+    "typical_pack": "500 g pack, about 22 slices, $5.00",
+    "source": "No Frills Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "yogurt",
+    "name": "Yogurt",
+    "aliases": [
+      "yogurt",
+      "yoghurt",
+      "plain yogurt",
+      "vanilla yogurt",
+      "curd",
+      "dahi"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00762,
+    "typical_pack": "500 g tub $3.81",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "greek_yogurt",
+    "name": "Greek yogurt",
+    "aliases": [
+      "greek yogurt",
+      "greek yoghurt",
+      "skyr"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.008653,
+    "typical_pack": "750 g tub about $6.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cream_cheese",
+    "name": "Cream cheese",
+    "aliases": [
+      "cream cheese",
+      "philadelphia",
+      "philly"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01196,
+    "typical_pack": "250 g brick $2.99",
+    "source": "No Frills Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "sour_cream",
+    "name": "Sour cream",
+    "aliases": [
+      "sour cream"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.00658,
+    "typical_pack": "500 ml tub about $3.29",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cream",
+    "name": "Whipping cream",
+    "aliases": [
+      "cream",
+      "heavy cream",
+      "whipping cream",
+      "35% cream",
+      "cooking cream",
+      "half and half",
+      "table cream"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.00474,
+    "typical_pack": "1 L carton $4.74",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cottage_cheese",
+    "name": "Cottage cheese",
+    "aliases": [
+      "cottage cheese"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00898,
+    "typical_pack": "500 g tub about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "soy_milk",
+    "name": "Soy milk",
+    "aliases": [
+      "soy milk",
+      "soymilk"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.002286,
+    "typical_pack": "1.89 L carton $4.32",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "oat_milk",
+    "name": "Oat or almond milk",
+    "aliases": [
+      "oat milk",
+      "almond milk",
+      "plant milk",
+      "nut milk",
+      "plant based milk"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.002233,
+    "typical_pack": "1.89 L carton $4.22",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "onion",
+    "name": "Yellow onion",
+    "aliases": [
+      "onion",
+      "onions",
+      "yellow onion",
+      "white onion",
+      "red onion",
+      "diced onion",
+      "caramelized onions"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.5975,
+    "typical_pack": "1.36 kg (3 lb) bag, about 8 medium, $4.78",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic clove",
+    "aliases": [
+      "garlic",
+      "garlic clove",
+      "garlic cloves",
+      "minced garlic",
+      "clove of garlic"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.06633,
+    "typical_pack": "3 bulb pack, about 30 cloves, about $1.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger root",
+    "aliases": [
+      "ginger",
+      "fresh ginger",
+      "ginger root",
+      "minced ginger"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0088,
+    "typical_pack": "per kg about $8.80 ($3.99/lb)",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "aliases": [
+      "tomato",
+      "tomatoes",
+      "roma tomato",
+      "tomato slices",
+      "cherry tomatoes",
+      "grape tomatoes"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.6615,
+    "typical_pack": "per kg $4.41, about 150 g each",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "canned_tomatoes",
+    "name": "Canned tomatoes",
+    "aliases": [
+      "canned tomatoes",
+      "diced tomatoes",
+      "crushed tomatoes",
+      "whole tomatoes",
+      "tinned tomatoes",
+      "tomato puree"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.002676,
+    "typical_pack": "796 ml can $2.13",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "tomato_paste",
+    "name": "Tomato paste",
+    "aliases": [
+      "tomato paste"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.008269,
+    "typical_pack": "156 ml can about $1.29",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "pasta_sauce",
+    "name": "Pasta sauce, jarred",
+    "aliases": [
+      "pasta sauce",
+      "marinara",
+      "tomato sauce",
+      "spaghetti sauce",
+      "bolognese sauce",
+      "ragu",
+      "pizza sauce"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.004692,
+    "typical_pack": "650 ml jar $3.05",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "bell_pepper",
+    "name": "Bell pepper",
+    "aliases": [
+      "bell pepper",
+      "pepper",
+      "peppers",
+      "red pepper",
+      "green pepper",
+      "yellow pepper",
+      "sweet pepper",
+      "capsicum"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 1.176,
+    "typical_pack": "per kg $5.88, about 200 g each",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "jalapeno",
+    "name": "Jalapeno pepper",
+    "aliases": [
+      "jalapeno",
+      "jalapenos",
+      "chili pepper",
+      "green chili",
+      "thai chili",
+      "hot pepper"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.149,
+    "typical_pack": "per 10 about $1.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "aliases": [
+      "carrot",
+      "carrots",
+      "baby carrots",
+      "shredded carrot"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.2161,
+    "typical_pack": "1.36 kg (3 lb) bag, about 18 medium, $3.89",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "aliases": [
+      "broccoli",
+      "broccoli florets",
+      "broccolini"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 2.56,
+    "typical_pack": "1 head $2.56",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cauliflower",
+    "name": "Cauliflower",
+    "aliases": [
+      "cauliflower",
+      "cauliflower florets"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 3.49,
+    "typical_pack": "1 head about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "spinach",
+    "name": "Baby spinach, fresh",
+    "aliases": [
+      "spinach",
+      "baby spinach",
+      "fresh spinach",
+      "kale"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0281,
+    "typical_pack": "142 g clamshell about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_spinach",
+    "name": "Frozen spinach",
+    "aliases": [
+      "frozen spinach",
+      "chopped spinach"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0076,
+    "typical_pack": "300 g box $2.28",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "salad_greens",
+    "name": "Salad greens mix",
+    "aliases": [
+      "salad",
+      "mixed greens",
+      "spring mix",
+      "salad mix",
+      "arugula",
+      "mesclun"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.03021,
+    "typical_pack": "142 g clamshell $4.29",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "iceberg_lettuce",
+    "name": "Iceberg lettuce",
+    "aliases": [
+      "lettuce",
+      "iceberg",
+      "iceberg lettuce",
+      "shredded lettuce"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 2.85,
+    "typical_pack": "1 head $2.85",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "romaine_lettuce",
+    "name": "Romaine lettuce",
+    "aliases": [
+      "romaine",
+      "romaine lettuce",
+      "caesar salad greens"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 3.2,
+    "typical_pack": "1 head $3.20",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "aliases": [
+      "cucumber",
+      "english cucumber",
+      "cucumbers",
+      "pickle"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 1.28,
+    "typical_pack": "1 English cucumber $1.28",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "mushroom",
+    "name": "White mushrooms",
+    "aliases": [
+      "mushroom",
+      "mushrooms",
+      "button mushrooms",
+      "white mushrooms",
+      "cremini",
+      "brown mushrooms",
+      "shiitake",
+      "enoki"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01115,
+    "typical_pack": "227 g pack $2.53",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "green_onion",
+    "name": "Green onion, per stalk",
+    "aliases": [
+      "green onion",
+      "green onions",
+      "scallion",
+      "scallions",
+      "spring onion",
+      "spring onions",
+      "chives"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.1613,
+    "typical_pack": "bunch of about 8 stalks about $1.29",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro",
+    "aliases": [
+      "cilantro",
+      "coriander leaves",
+      "fresh coriander",
+      "parsley",
+      "fresh herbs",
+      "basil",
+      "mint"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02483,
+    "typical_pack": "bunch of about 60 g about $1.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "celery",
+    "name": "Celery stalk",
+    "aliases": [
+      "celery",
+      "celery stalk",
+      "celery stick"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.3233,
+    "typical_pack": "bunch of about 9 stalks $2.91",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "zucchini",
+    "name": "Zucchini",
+    "aliases": [
+      "zucchini",
+      "courgette",
+      "squash"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 1.1,
+    "typical_pack": "1 medium about $1.10",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "eggplant",
+    "name": "Eggplant",
+    "aliases": [
+      "eggplant",
+      "aubergine",
+      "chinese eggplant"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 1.99,
+    "typical_pack": "1 medium about $1.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "aliases": [
+      "lime",
+      "limes",
+      "lime juice",
+      "lime wedge"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.77,
+    "typical_pack": "1 lime $0.77",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "aliases": [
+      "lemon",
+      "lemons",
+      "lemon juice",
+      "lemon wedge"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 1.07,
+    "typical_pack": "1 lemon $1.07",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "aliases": [
+      "avocado",
+      "avocados",
+      "guacamole"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 2.15,
+    "typical_pack": "1 avocado $2.15",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "aliases": [
+      "banana",
+      "bananas"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.3078,
+    "typical_pack": "per kg $1.71, about 180 g each",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "aliases": [
+      "apple",
+      "apples",
+      "gala apple",
+      "sliced apple"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 1.143,
+    "typical_pack": "per kg $6.35, about 180 g each",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "aliases": [
+      "orange",
+      "oranges",
+      "mandarin",
+      "clementine"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.922,
+    "typical_pack": "per kg $4.61, about 200 g each",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "strawberries",
+    "name": "Strawberries",
+    "aliases": [
+      "strawberry",
+      "strawberries",
+      "berries",
+      "blueberries",
+      "raspberries"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00848,
+    "typical_pack": "454 g clamshell $3.85",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_fruit",
+    "name": "Frozen fruit",
+    "aliases": [
+      "frozen fruit",
+      "frozen berries",
+      "frozen strawberries",
+      "frozen mango",
+      "smoothie fruit"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.008733,
+    "typical_pack": "600 g bag $5.24",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_mixed_vegetables",
+    "name": "Frozen mixed vegetables",
+    "aliases": [
+      "mixed vegetables",
+      "frozen vegetables",
+      "frozen mixed vegetables",
+      "stir fry vegetables",
+      "veggie mix",
+      "peas and carrots"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00552,
+    "typical_pack": "750 g bag $4.14",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_peas",
+    "name": "Frozen peas",
+    "aliases": [
+      "peas",
+      "green peas",
+      "frozen peas"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.004907,
+    "typical_pack": "750 g bag $3.68",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_corn",
+    "name": "Frozen corn",
+    "aliases": [
+      "corn",
+      "frozen corn",
+      "corn kernels",
+      "sweet corn"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00488,
+    "typical_pack": "750 g bag $3.66",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "canned_corn",
+    "name": "Canned corn",
+    "aliases": [
+      "canned corn",
+      "corn niblets",
+      "creamed corn"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.004839,
+    "typical_pack": "341 ml can $1.65",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "corn_on_cob",
+    "name": "Corn on the cob",
+    "aliases": [
+      "corn on the cob",
+      "cob of corn",
+      "ear of corn"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.6,
+    "typical_pack": "1 ear about $0.60",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "frozen_broccoli",
+    "name": "Frozen broccoli",
+    "aliases": [
+      "frozen broccoli"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00802,
+    "typical_pack": "500 g bag $4.01",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "green_beans",
+    "name": "Green beans",
+    "aliases": [
+      "green beans",
+      "string beans",
+      "french beans"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00596,
+    "typical_pack": "750 g frozen bag $4.47",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cabbage",
+    "name": "Green cabbage",
+    "aliases": [
+      "cabbage",
+      "green cabbage",
+      "red cabbage",
+      "coleslaw mix",
+      "coleslaw"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00277,
+    "typical_pack": "per kg $2.77",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "napa_cabbage",
+    "name": "Napa cabbage",
+    "aliases": [
+      "napa cabbage",
+      "chinese cabbage",
+      "wombok",
+      "suey choy"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00329,
+    "typical_pack": "per kg about $3.29",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "bok_choy",
+    "name": "Bok choy",
+    "aliases": [
+      "bok choy",
+      "baby bok choy",
+      "shanghai bok choy",
+      "pak choi",
+      "choy sum",
+      "gai lan",
+      "chinese greens"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00439,
+    "typical_pack": "per kg about $4.39 ($1.99/lb)",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "bean_sprouts",
+    "name": "Bean sprouts",
+    "aliases": [
+      "bean sprouts",
+      "mung bean sprouts",
+      "sprouts"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.005853,
+    "typical_pack": "340 g bag about $1.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "kimchi",
+    "name": "Kimchi",
+    "aliases": [
+      "kimchi",
+      "napa kimchi",
+      "kimchee"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01332,
+    "typical_pack": "750 g jar about $9.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "olive_oil",
+    "name": "Olive oil",
+    "aliases": [
+      "olive oil",
+      "extra virgin olive oil",
+      "evoo"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.01171,
+    "typical_pack": "1 L bottle $11.71",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "vegetable_oil",
+    "name": "Vegetable oil",
+    "aliases": [
+      "vegetable oil",
+      "cooking oil",
+      "oil",
+      "frying oil",
+      "sunflower oil",
+      "corn oil"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.002957,
+    "typical_pack": "3 L jug $8.87",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "canola_oil",
+    "name": "Canola oil",
+    "aliases": [
+      "canola oil",
+      "rapeseed oil"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.00339,
+    "typical_pack": "3 L jug $10.17",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "sesame_oil",
+    "name": "Sesame oil",
+    "aliases": [
+      "sesame oil",
+      "toasted sesame oil"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.02169,
+    "typical_pack": "207 ml bottle about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "soy_sauce",
+    "name": "Soy sauce",
+    "aliases": [
+      "soy sauce",
+      "soya sauce",
+      "light soy sauce",
+      "dark soy sauce",
+      "tamari",
+      "shoyu"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.00599,
+    "typical_pack": "1 L bottle about $5.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "oyster_sauce",
+    "name": "Oyster sauce",
+    "aliases": [
+      "oyster sauce"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.009975,
+    "typical_pack": "510 g (about 400 ml) bottle about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "hoisin",
+    "name": "Hoisin sauce",
+    "aliases": [
+      "hoisin",
+      "hoisin sauce",
+      "plum sauce"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.01005,
+    "typical_pack": "397 ml jar about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "fish_sauce",
+    "name": "Fish sauce",
+    "aliases": [
+      "fish sauce",
+      "nuoc mam",
+      "nam pla"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.004986,
+    "typical_pack": "700 ml bottle about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "sriracha",
+    "name": "Sriracha",
+    "aliases": [
+      "sriracha",
+      "hot chili sauce",
+      "rooster sauce"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.008769,
+    "typical_pack": "455 ml bottle about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "hot_sauce",
+    "name": "Hot sauce",
+    "aliases": [
+      "hot sauce",
+      "franks",
+      "frank's red hot",
+      "tabasco",
+      "cholula"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.01268,
+    "typical_pack": "354 ml bottle about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "chili_crisp",
+    "name": "Chili crisp",
+    "aliases": [
+      "chili crisp",
+      "chili oil",
+      "lao gan ma",
+      "chilli oil"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02138,
+    "typical_pack": "210 g jar about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "gochujang",
+    "name": "Gochujang",
+    "aliases": [
+      "gochujang",
+      "korean chili paste",
+      "red pepper paste"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01398,
+    "typical_pack": "500 g tub about $6.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "miso",
+    "name": "Miso paste",
+    "aliases": [
+      "miso",
+      "miso paste",
+      "white miso",
+      "red miso",
+      "doenjang"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01198,
+    "typical_pack": "500 g tub about $5.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "curry_paste",
+    "name": "Thai curry paste",
+    "aliases": [
+      "curry paste",
+      "red curry paste",
+      "green curry paste",
+      "thai curry paste",
+      "yellow curry paste"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.03763,
+    "typical_pack": "114 g jar about $4.29",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "curry_sauce",
+    "name": "Indian simmer sauce",
+    "aliases": [
+      "butter chicken sauce",
+      "tikka masala sauce",
+      "curry sauce",
+      "simmer sauce",
+      "korma sauce"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.008725,
+    "typical_pack": "400 ml jar about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "japanese_curry",
+    "name": "Japanese curry roux",
+    "aliases": [
+      "japanese curry",
+      "curry roux",
+      "golden curry",
+      "curry cubes"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02041,
+    "typical_pack": "220 g box about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "teriyaki_sauce",
+    "name": "Teriyaki sauce",
+    "aliases": [
+      "teriyaki",
+      "teriyaki sauce"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.008867,
+    "typical_pack": "450 ml bottle about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "honey_garlic_sauce",
+    "name": "Honey garlic sauce",
+    "aliases": [
+      "honey garlic sauce",
+      "sweet and sour sauce",
+      "stir fry sauce"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.01,
+    "typical_pack": "500 ml bottle $5.00",
+    "source": "No Frills Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "bbq_sauce",
+    "name": "Barbecue sauce",
+    "aliases": [
+      "bbq sauce",
+      "barbecue sauce"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.004,
+    "typical_pack": "500 ml bottle $2.00",
+    "source": "No Frills Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "ketchup",
+    "name": "Ketchup",
+    "aliases": [
+      "ketchup",
+      "catsup"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.00444,
+    "typical_pack": "1 L bottle $4.44",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "mayo",
+    "name": "Mayonnaise",
+    "aliases": [
+      "mayo",
+      "mayonnaise",
+      "kewpie",
+      "japanese mayo",
+      "aioli"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.007236,
+    "typical_pack": "890 ml jar $6.44",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "mustard",
+    "name": "Yellow mustard",
+    "aliases": [
+      "mustard",
+      "yellow mustard",
+      "dijon",
+      "dijon mustard"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.006975,
+    "typical_pack": "400 ml bottle about $2.79",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "salad_dressing",
+    "name": "Salad dressing",
+    "aliases": [
+      "salad dressing",
+      "ranch",
+      "caesar dressing",
+      "italian dressing",
+      "vinaigrette"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.0076,
+    "typical_pack": "475 ml bottle $3.61",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "salsa",
+    "name": "Salsa",
+    "aliases": [
+      "salsa",
+      "pico de gallo"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.01215,
+    "typical_pack": "418 ml jar $5.08",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "hummus",
+    "name": "Hummus",
+    "aliases": [
+      "hummus",
+      "houmous"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01652,
+    "typical_pack": "227 g tub $3.75",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "peanut_butter",
+    "name": "Peanut butter",
+    "aliases": [
+      "peanut butter",
+      "pb",
+      "natural peanut butter"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00598,
+    "typical_pack": "1 kg jar $5.98",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "nutella",
+    "name": "Hazelnut spread",
+    "aliases": [
+      "nutella",
+      "hazelnut spread",
+      "chocolate spread"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.009641,
+    "typical_pack": "725 g jar about $6.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "jam",
+    "name": "Jam",
+    "aliases": [
+      "jam",
+      "jelly",
+      "strawberry jam",
+      "preserves",
+      "marmalade"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.00798,
+    "typical_pack": "500 ml jar about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "aliases": [
+      "honey",
+      "liquid honey",
+      "creamed honey"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.01398,
+    "typical_pack": "500 g bottle about $6.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "maple_syrup",
+    "name": "Maple syrup",
+    "aliases": [
+      "maple syrup",
+      "syrup",
+      "pancake syrup"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.01398,
+    "typical_pack": "500 ml bottle $6.99",
+    "source": "No Frills Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "sugar",
+    "name": "White sugar",
+    "aliases": [
+      "sugar",
+      "white sugar",
+      "granulated sugar"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.001405,
+    "typical_pack": "2 kg bag $2.81",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "brown_sugar",
+    "name": "Brown sugar",
+    "aliases": [
+      "brown sugar",
+      "golden sugar"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00329,
+    "typical_pack": "1 kg bag about $3.29",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "salt",
+    "name": "Salt",
+    "aliases": [
+      "salt",
+      "table salt",
+      "sea salt",
+      "kosher salt"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.00149,
+    "typical_pack": "1 kg box about $1.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "black_pepper",
+    "name": "Black pepper, ground",
+    "aliases": [
+      "black pepper",
+      "ground pepper",
+      "peppercorns",
+      "cracked pepper"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.3,
+    "typical_pack": "about $4.49 per 100 g, about 15 tbsp",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "garlic_powder",
+    "name": "Garlic powder",
+    "aliases": [
+      "garlic powder",
+      "garlic salt",
+      "granulated garlic"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.25,
+    "typical_pack": "about $3.99 per 150 g jar",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "onion_powder",
+    "name": "Onion powder",
+    "aliases": [
+      "onion powder"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.25,
+    "typical_pack": "about $3.49 per 120 g jar",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "paprika",
+    "name": "Paprika",
+    "aliases": [
+      "paprika",
+      "smoked paprika",
+      "sweet paprika"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.3,
+    "typical_pack": "about $3.49 per 75 g jar",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cumin",
+    "name": "Ground cumin",
+    "aliases": [
+      "cumin",
+      "ground cumin",
+      "cumin seeds",
+      "jeera"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.35,
+    "typical_pack": "about $3.99 per 70 g jar",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "chili_flakes",
+    "name": "Chili flakes",
+    "aliases": [
+      "chili flakes",
+      "red pepper flakes",
+      "crushed red pepper",
+      "gochugaru",
+      "chilli flakes"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.25,
+    "typical_pack": "about $3.49 per 75 g jar",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "chili_powder",
+    "name": "Chili powder",
+    "aliases": [
+      "chili powder",
+      "cayenne",
+      "cayenne pepper",
+      "taco seasoning"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.3,
+    "typical_pack": "about $3.49 per 80 g jar",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "curry_powder",
+    "name": "Curry powder",
+    "aliases": [
+      "curry powder",
+      "garam masala",
+      "masala",
+      "turmeric",
+      "haldi"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.35,
+    "typical_pack": "about $3.99 per 75 g jar",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "italian_seasoning",
+    "name": "Dried Italian herbs",
+    "aliases": [
+      "italian seasoning",
+      "oregano",
+      "dried basil",
+      "dried herbs",
+      "thyme",
+      "rosemary",
+      "dried parsley"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.3,
+    "typical_pack": "about $2.99 per 20 g jar",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cinnamon",
+    "name": "Ground cinnamon",
+    "aliases": [
+      "cinnamon",
+      "ground cinnamon"
+    ],
+    "unit": "tbsp",
+    "price_per_unit_cad": 0.25,
+    "typical_pack": "about $3.49 per 100 g jar",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "chicken_bouillon",
+    "name": "Chicken bouillon",
+    "aliases": [
+      "bouillon",
+      "bouillon cube",
+      "stock cube",
+      "oxo",
+      "chicken powder",
+      "chicken bouillon powder"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.2983,
+    "typical_pack": "6 cube box about $1.79",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "chicken_stock",
+    "name": "Chicken stock",
+    "aliases": [
+      "chicken stock",
+      "chicken broth",
+      "stock",
+      "broth",
+      "beef broth",
+      "beef stock",
+      "bone broth"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.0031,
+    "typical_pack": "900 ml carton about $2.79",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "vegetable_broth",
+    "name": "Vegetable broth",
+    "aliases": [
+      "vegetable broth",
+      "vegetable stock",
+      "veggie broth"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.002222,
+    "typical_pack": "900 ml carton $2.00",
+    "source": "No Frills Ontario flyer 2026-10-01 to 2026-10-07, sale price",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "coconut_milk",
+    "name": "Coconut milk, canned",
+    "aliases": [
+      "coconut milk",
+      "coconut cream",
+      "canned coconut milk"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.004975,
+    "typical_pack": "400 ml can about $1.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "canned_soup",
+    "name": "Canned soup",
+    "aliases": [
+      "canned soup",
+      "campbells",
+      "chicken noodle soup",
+      "tomato soup",
+      "cream of mushroom"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 1.4,
+    "typical_pack": "284 ml can $1.40",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "white_vinegar",
+    "name": "White vinegar",
+    "aliases": [
+      "vinegar",
+      "white vinegar",
+      "apple cider vinegar",
+      "balsamic vinegar"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.001123,
+    "typical_pack": "4 L jug about $4.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "rice_vinegar",
+    "name": "Rice vinegar",
+    "aliases": [
+      "rice vinegar",
+      "rice wine vinegar",
+      "seasoned rice vinegar",
+      "black vinegar"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.009268,
+    "typical_pack": "355 ml bottle about $3.29",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cooking_wine",
+    "name": "Shaoxing cooking wine",
+    "aliases": [
+      "shaoxing wine",
+      "cooking wine",
+      "rice wine",
+      "mirin",
+      "sake"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.004653,
+    "typical_pack": "750 ml bottle about $3.49",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "cornstarch",
+    "name": "Cornstarch",
+    "aliases": [
+      "cornstarch",
+      "corn starch",
+      "corn flour",
+      "potato starch"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.005044,
+    "typical_pack": "454 g box about $2.29",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "sesame_seeds",
+    "name": "Sesame seeds",
+    "aliases": [
+      "sesame seeds",
+      "toasted sesame seeds",
+      "furikake"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.0299,
+    "typical_pack": "100 g bag about $2.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "nori",
+    "name": "Roasted seaweed sheets",
+    "aliases": [
+      "nori",
+      "seaweed",
+      "seaweed sheets",
+      "gim",
+      "laver",
+      "seaweed snack"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.399,
+    "typical_pack": "10 sheet pack about $3.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "ghee",
+    "name": "Ghee",
+    "aliases": [
+      "ghee",
+      "clarified butter"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02498,
+    "typical_pack": "400 g jar about $9.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "coffee",
+    "name": "Ground coffee",
+    "aliases": [
+      "coffee",
+      "ground coffee",
+      "coffee beans",
+      "espresso",
+      "instant coffee"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.02759,
+    "typical_pack": "340 g bag $9.38",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "tea_bags",
+    "name": "Tea bags",
+    "aliases": [
+      "tea",
+      "tea bag",
+      "tea bags",
+      "green tea",
+      "black tea",
+      "chai"
+    ],
+    "unit": "each",
+    "price_per_unit_cad": 0.214,
+    "typical_pack": "20 bag box $4.28",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "orange_juice",
+    "name": "Orange juice",
+    "aliases": [
+      "orange juice",
+      "oj",
+      "juice",
+      "apple juice"
+    ],
+    "unit": "ml",
+    "price_per_unit_cad": 0.00305,
+    "typical_pack": "2 L carton $6.10",
+    "source": "Statistics Canada 18-10-0245-01, Ontario average, 2026-08",
+    "checked_on": "2026-10-07"
+  },
+  {
+    "id": "protein_powder",
+    "name": "Whey protein powder",
+    "aliases": [
+      "protein powder",
+      "whey",
+      "whey protein",
+      "protein shake",
+      "protein scoop"
+    ],
+    "unit": "g",
+    "price_per_unit_cad": 0.03633,
+    "typical_pack": "908 g tub about $32.99",
+    "source": "estimate",
+    "checked_on": "2026-10-07"
+  }
+]
